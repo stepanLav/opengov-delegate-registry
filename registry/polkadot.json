@@ -24,6 +24,22 @@
         "isOrganization": true
     },
     {
+        "address": "13zayGEv1goe6mPVNFtyyUFZTeL4QkZvE9aK1vJdLMRCMQRF",
+        "name": "Polkadot BizDev",
+        "image": "https://raw.githubusercontent.com/stepanLav/opengov-delegate-registry/test/polkadot_regi/images/Polkadot%20BizDev.png?raw=true",
+        "shortDescription": "Experienced Polkadot Business Development ('BizDev') executives focused on the growth of Polkadot.",
+        "longDescription": "## About Us\nPolkadot BizDev are experienced Polkadot Business Development ('BizDev') executives that focus on driving forward the commercial growth of the Polkadot ecosystem. By voting with Polkadot BizDev, we aim to support proposals that give Polkadot the best chance of excelling in business development and ultimately excelling in the growth of the Polkadot ecosystem and Dot token.",
+        "isOrganization": false
+    },
+    {
+        "address": "16CxXYoq9joofWE13zWuWBfd4tx3kQhXJECLLkhMLgWjYyHG",
+        "name": "Math Crypto",
+        "image": "https://raw.githubusercontent.com/stepanLav/opengov-delegate-registry/test/polkadot_regi/images/mathcrypto.png",
+        "shortDescription": "Active OpenGov contributor | 1kv validator",
+        "longDescription": "We run [validators for Kusama and Polkadot](https://www.math-crypto.com/) within the 1kv programme. From the beginning of OpenGov, we have contributed to governance by participating in discussions, diligently voting on each proposal, and making user-friendly tools for participating in OpenGov. \n Delegation to MathCrypto means that you care about proposals that focus on a decentralized but secure validator network, developing novel use-cases for Dotsama, and cost efficient education and media content.",
+        "isOrganization": false
+    },
+    {
         "address": "13EyMuuDHwtq5RD6w3psCJ9WvJFZzDDion6Fd2FVAqxz1g7K",
         "name": "ChaosDAO",
         "image": "https://raw.githubusercontent.com/nova-wallet/opengov-delegate-registry/master/images/chaosdao.png",
