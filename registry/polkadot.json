@@ -266,7 +266,7 @@
     {
         "address": "12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh",
         "name": "PolkaWorld",
-        "image": "https://github.com/pppxj1/opengov-delegate-registry/blob/master/images/PolkaWorld.png",
+        "image": "https://raw.githubusercontent.com/stepanLav/opengov-delegate-registry/test/polkadot_regi/images/PolkaWorld.png",
         "shortDescription": "the largest Polkadot Chinese community in Asia",
         "longDescription": "## About us\n\nPolkaWorld is the largest Polkadot Chinese community in Asia and has formerly served as a Council Member for Polkadot and Kusama. It has been involved in numerous proposal votings and has a profound understanding of Polkadot's OpenGov governance system",
         "isOrganization": true
